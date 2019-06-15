@@ -210,11 +210,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugg/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/xiaomi/ugg/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/xiaomi/ugg/proprietary/lib/hw/camera.vendor.msm8937.so:system/lib/hw/camera.vendor.msm8937.so \
-    vendor/xiaomi/ugg/proprietary/lib/hw/consumerir.default.so:system/vendor/lib/hw/consumerir.default.so \
+    vendor/xiaomi/ugg/proprietary/vendor/lib/hw/consumerir.default.so:system/vendor/lib/hw/consumerir.default.so \
     vendor/xiaomi/ugg/proprietary/lib/lib_fpc_tac_shared.so:system/lib/lib_fpc_tac_shared.so \
     vendor/xiaomi/ugg/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
     vendor/xiaomi/ugg/proprietary/lib/libmorpho_panorama.so:system/lib/libmorpho_panorama.so \
-    vendor/xiaomi/ugg/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
+    vendor/xiaomi/ugg/proprietary/vendor/lib64/hw/consumerir.default.so:system/vendor/lib64/hw/consumerir.default.so \
     vendor/xiaomi/ugg/proprietary/lib64/hw/fingerprint.goodix.default.so:system/lib64/hw/fingerprint.goodix.default.so \
     vendor/xiaomi/ugg/proprietary/lib64/hw/fingerprint.msm8937.so:system/lib64/hw/fingerprint.msm8937.so \
     vendor/xiaomi/ugg/proprietary/lib64/lib_fpc_tac_shared.so:system/lib64/lib_fpc_tac_shared.so \
