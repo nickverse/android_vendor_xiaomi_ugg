@@ -211,11 +211,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugg/proprietary/framework/com.quicinc.cne.jar:system/framework/com.quicinc.cne.jar \
     vendor/xiaomi/ugg/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/xiaomi/ugg/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
-    vendor/xiaomi/ugg/proprietary/lib/hw/camera.vendor.msm8937.so:system/lib/hw/camera.vendor.msm8937.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/hw/consumerir.default.so:system/vendor/lib/hw/consumerir.default.so \
     vendor/xiaomi/ugg/proprietary/lib/lib_fpc_tac_shared.so:system/lib/lib_fpc_tac_shared.so \
-    vendor/xiaomi/ugg/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
-    vendor/xiaomi/ugg/proprietary/lib/libmorpho_panorama.so:system/lib/libmorpho_panorama.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib64/hw/consumerir.default.so:system/vendor/lib64/hw/consumerir.default.so \
     vendor/xiaomi/ugg/proprietary/lib64/hw/fingerprint.goodix.default.so:system/lib64/hw/fingerprint.goodix.default.so \
     vendor/xiaomi/ugg/proprietary/lib64/hw/fingerprint.msm8937.so:system/lib64/hw/fingerprint.msm8937.so \
@@ -223,8 +220,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugg/proprietary/lib64/libgf_algo.so:system/lib64/libgf_algo.so \
     vendor/xiaomi/ugg/proprietary/lib64/libgf_ca.so:system/lib64/libgf_ca.so \
     vendor/xiaomi/ugg/proprietary/lib64/libgf_hal.so:system/lib64/libgf_hal.so \
-    vendor/xiaomi/ugg/proprietary/lib64/libmorpho_memory_allocator.so:system/lib64/libmorpho_memory_allocator.so \
-    vendor/xiaomi/ugg/proprietary/lib64/libmorpho_panorama.so:system/lib64/libmorpho_panorama.so \
     vendor/xiaomi/ugg/proprietary/vendor/bin/mm-pp-dpps:system/vendor/bin/mm-pp-dpps \
     vendor/xiaomi/ugg/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/xiaomi/ugg/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
@@ -261,7 +256,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libChamomilePA.so:system/vendor/lib/libChamomilePA.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libDRPlugin.so:system/vendor/lib/libDRPlugin.so \
-    vendor/xiaomi/ugg/proprietary/vendor/lib/libFaceGrade.so:system/vendor/lib/libFaceGrade.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libGPTEE.so:system/vendor/lib/libGPTEE.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libGPreqcancel.so:system/vendor/lib/libGPreqcancel.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libGPreqcancel_svc.so:system/vendor/lib/libGPreqcancel_svc.so \
@@ -310,10 +304,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libadsp_default_listener.so:system/vendor/lib/libadsp_default_listener.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
-    vendor/xiaomi/ugg/proprietary/vendor/lib/libarcsoft_beauty_shot.so:system/vendor/lib/libarcsoft_beauty_shot.so \
-    vendor/xiaomi/ugg/proprietary/vendor/lib/libarcsoft_beautyshot.so:system/vendor/lib/libarcsoft_beautyshot.so \
-    vendor/xiaomi/ugg/proprietary/vendor/lib/libarcsoft_beautyshot_image_algorithm.so:system/vendor/lib/libarcsoft_beautyshot_image_algorithm.so \
-    vendor/xiaomi/ugg/proprietary/vendor/lib/libarcsoft_beautyshot_video_algorithm.so:system/vendor/lib/libarcsoft_beautyshot_video_algorithm.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
@@ -2139,9 +2129,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libmmqjpegdma.so:system/vendor/lib/libmmqjpegdma.so \
-    vendor/xiaomi/ugg/proprietary/vendor/lib/libmorpho_easy_hdr.so:system/vendor/lib/libmorpho_easy_hdr.so \
-    vendor/xiaomi/ugg/proprietary/vendor/lib/libmorpho_hdr_checker.so:system/vendor/lib/libmorpho_hdr_checker.so \
-    vendor/xiaomi/ugg/proprietary/vendor/lib/libmorpho_panorama_gp.so:system/vendor/lib/libmorpho_panorama_gp.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libmpbase.so:system/vendor/lib/libmpbase.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/libois_lc898122.so:system/vendor/lib/libois_lc898122.so \
     vendor/xiaomi/ugg/proprietary/vendor/lib/liboptizoom.so:system/vendor/lib/liboptizoom.so \
